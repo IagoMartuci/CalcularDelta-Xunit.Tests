@@ -37,8 +37,7 @@ public class Delta
 
     public void RetornarDelta(double resultadoDelta, bool deltaNegativo)
     {
-        Console.WriteLine($"Resultado Delta: {resultadoDelta}" +
-            $"\nDelta Negativo? {deltaNegativo}");
+        Console.WriteLine($"Resultado Delta: {resultadoDelta} \nDelta Negativo? {deltaNegativo}");
     }
 }
 

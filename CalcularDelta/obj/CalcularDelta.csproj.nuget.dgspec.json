@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\CSharp\\CalcularDelta\\CalcularDelta\\CalcularDelta.csproj": {}
+    "C:\\DEV\\01.ETEC\\3DS\\DSII\\CalcularDelta-Xunit.Tests\\CalcularDelta\\CalcularDelta.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\CSharp\\CalcularDelta\\CalcularDelta\\CalcularDelta.csproj": {
+    "C:\\DEV\\01.ETEC\\3DS\\DSII\\CalcularDelta-Xunit.Tests\\CalcularDelta\\CalcularDelta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\CSharp\\CalcularDelta\\CalcularDelta\\CalcularDelta.csproj",
+        "projectUniqueName": "C:\\DEV\\01.ETEC\\3DS\\DSII\\CalcularDelta-Xunit.Tests\\CalcularDelta\\CalcularDelta.csproj",
         "projectName": "CalcularDelta",
-        "projectPath": "C:\\DEV\\CSharp\\CalcularDelta\\CalcularDelta\\CalcularDelta.csproj",
+        "projectPath": "C:\\DEV\\01.ETEC\\3DS\\DSII\\CalcularDelta-Xunit.Tests\\CalcularDelta\\CalcularDelta.csproj",
         "packagesPath": "C:\\Users\\iagom\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\CSharp\\CalcularDelta\\CalcularDelta\\obj\\",
+        "outputPath": "C:\\DEV\\01.ETEC\\3DS\\DSII\\CalcularDelta-Xunit.Tests\\CalcularDelta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

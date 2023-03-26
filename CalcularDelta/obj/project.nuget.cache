@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+tn+K3L1LTJz/6z9xTnwt3sAeuhJUGE92ao8N1GFhwh5e2FV62ixmpC2OtwWzlw/ixvGj8iaceudc4SPEjcxRg==",
+  "dgSpecHash": "7c4hggTKIP9j76T9o2VOTTyCZQOuHk682wVVo0LXNKzQRkKxm6hyDYLL4m3MLkoeTD9N8WYY1YN0QySFK90LeA==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\CSharp\\CalcularDelta\\CalcularDelta\\CalcularDelta.csproj",
+  "projectFilePath": "C:\\DEV\\01.ETEC\\3DS\\DSII\\CalcularDelta-Xunit.Tests\\CalcularDelta\\CalcularDelta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iagom\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\iagom\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

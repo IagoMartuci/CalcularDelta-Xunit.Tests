@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JkPprhaSbhoqIOt6lrKTX00p5/8s7iwaPTjD3tBr/p7xfsZRSuKR/q2D6qlj5GEnx3/iJsY5nbifiTzjEKqdag==",
+  "dgSpecHash": "1BfA07F+X+iqlKPhpK5LOcEUKnGtYIDFzoDpsVoZz2AY+57noOiMBrzy9S/fdFwqQMkXH8FeMXk+mslGL4CGBQ==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\CSharp\\CalcularDelta\\CalcularDelta.Tests\\CalcularDelta.Tests.csproj",
+  "projectFilePath": "C:\\DEV\\01.ETEC\\3DS\\DSII\\CalcularDelta-Xunit.Tests\\CalcularDelta.Tests\\CalcularDelta.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iagom\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\iagom\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
